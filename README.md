@@ -18,7 +18,7 @@
 #### The file actes-criminels.csv contains the list of criminal acts recorded by the Service de police de la Ville de Montréal (SPVM). Description of columns and translation of values:
 
 + CATEGORIE (list of values) : Nature of the event:
-- Introduction (eng. breaking and entering): breaking and entering a public establishment or private residence, theft of a firearm from a residence;
+++  Introduction (eng. breaking and entering): breaking and entering a public establishment or private residence, theft of a firearm from a residence;
 - Vol dans / sur véhicule à moteur (eng. theft from/to a motor vehicle): theft of the contents of a motor vehicle (car, truck, motorbike, etc.) or of a vehicle part (wheel, bumper, etc.)
 - Vol de véhicule à moteur (eng. theft of a motor vehicle): theft of a car, truck, motorbike, snowmobile with or without a trailer, construction or farm vehicle, all-terrain vehicle
 - Méfait (eng. mischief): graffiti and damage to religious property, vehicle or general damage and all other types of mischief
