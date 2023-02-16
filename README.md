@@ -2,7 +2,7 @@
 
 ## Objective 
 
-#### Analyze the data and draw conclusions on the distribution and nature of crime in Montreal City. In your analysis, include maps that visualize the location of different incidents globally and in relation to police districts.
+#### Analyze the data and draw conclusions on the distribution and nature of crime in Montreal City. 
 
 ## Insights to Gather
 
