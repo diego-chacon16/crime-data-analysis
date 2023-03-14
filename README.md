@@ -23,14 +23,14 @@
 3. Vol de véhicule à moteur (eng. theft of a motor vehicle): theft of a car, truck, motorbike, snowmobile with or without a trailer, construction or farm vehicle, all-terrain vehicle
 4. Méfait (eng. mischief): graffiti and damage to religious property, vehicle or general damage and all other types of mischief
 5. Vol qualifié (eng. robbery) : robbery with the violence of business, financial institution, person, purse, armored car, vehicle, firearm, and all other types of robbery
-6. Infraction entraînant la mort (eng. murder resulting in death): first-degree murder, second-degree murder, manslaughter, infanticide, criminal negligence, and all other types of offenses resulting in death;
-+ DATE (date) : Date the event was reported to the SPVM in YYYY-MM-DD format;
+6. Infraction entraînant la mort (eng. murder resulting in death): first-degree murder, second-degree murder, manslaughter, infanticide, criminal negligence, and all other types of offenses resulting in death
++ DATE (date) : Date the event was reported to the SPVM in YYYY-MM-DD format
 + QUART (list of values): Time of day the event was reported to the SPVM:
 1. jour (eng. day): Between 8:01 a.m. and 4:00 p.m.
 2. soir (eng. evening) : Between 4:01 pm and midnight
-3. nuit (eng. night) : Between 00:01 and 8:00 a.m.;
-+ PDQ (numeric) : Number of the police precinct covering the territory where the event took place;
-+ X (spatial coordinates): Geospatial position in MTM8 projection (SRID 2950);
-+ Y (spatial coordinates): Geospatial position in MTM8 projection (SRID 2950);
-+ LATITUDE (spatial coordinates): geographical position of the event after obfuscation to an intersection according to the WGS84 geodetic reference frame;
-+ LONGITUDE (spatial coordinates): geographical position of the event after obfuscation at an intersection according to the WGS84 geodetic reference frame;
+3. nuit (eng. night) : Between 00:01 and 8:00 a.m.
++ PDQ (numeric) : Number of the police precinct covering the territory where the event took place
++ X (spatial coordinates): Geospatial position in MTM8 projection (SRID 2950)
++ Y (spatial coordinates): Geospatial position in MTM8 projection (SRID 2950)
++ LATITUDE (spatial coordinates): geographical position of the event after obfuscation to an intersection according to the WGS84 geodetic reference frame
++ LONGITUDE (spatial coordinates): geographical position of the event after obfuscation at an intersection according to the WGS84 geodetic reference frame
